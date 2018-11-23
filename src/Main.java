@@ -4,7 +4,5 @@ public class Main {
 
         System.out.println("Hello World!");
 
-        int test_code=  5;
-        for(int i=0; i<test_code; i++) System.out.println("#"+i);
     }
 }
